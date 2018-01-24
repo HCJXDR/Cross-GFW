@@ -16,4 +16,5 @@
  
 ## 四、SSR搭建  
   1.[在Vultr上一键搭建](https://freenet.pro/?p=71)   
-  2.
+  2.[在Vultr上一键搭建](https://github.com/Alvin9999/new-pac/wiki/自建ss服务器教程)  
+  3.
