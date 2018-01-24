@@ -6,7 +6,7 @@
 ## 二、SSR(Shadow Socket Rocket)   
   1.https://ssssssssjshhd.herokuapp.com/   
     [项目地址](https://github.com/the0demiurge/ShadowSocksShare-OpenShift)    
-  2.https://github.com/Alvin9999/new-pac/wiki/ss免费账号
+  2.https://github.com/Alvin9999/new-pac/wiki/ss免费账号    
     [项目地址](https://github.com/Alvin9999/new-pac)   
   3.https://global.ishadowx.net/index_cn.html   
   
