@@ -17,4 +17,11 @@
 ## 四、SSR搭建(Build SSR)  
   1.[在Vultr上一键搭建](https://freenet.pro/?p=71)   
   2.[在Vultr上一键搭建](https://github.com/Alvin9999/new-pac/wiki/自建ss服务器教程)  
-  3.[SSR搭建、配置、提速，免流](http://blog.csdn.net/weixin_37913827/article/details/78717913)   
+  3.[SSR搭建、配置、提速，免流](http://blog.csdn.net/weixin_37913827/article/details/78717913)      
+  
+## 五、v2Ray    
+  1.[教程一]（https://toutyrater.github.io）        
+  2.[教程二]（https://www.helup.com/77.html）        
+  3.[教程三]（https://www.v2ray.com/chapter_00/start.html）                 
+  
+  
