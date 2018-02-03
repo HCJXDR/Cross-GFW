@@ -21,7 +21,7 @@
   
 ## 五、v2Ray    
   1.[教程一](https://toutyrater.github.io)                  
-  2.[教程二](https://www.helup.com/77.html)                                                                    
+  2.[教程二](https://www.helup.com/77.html)          
   3.[教程三](https://www.v2ray.com/chapter_00/start.html)                 
   
   
