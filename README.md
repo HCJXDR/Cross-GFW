@@ -18,7 +18,7 @@
   * [在Vultr上一键搭建](https://freenet.pro/?p=71)   
   * [在Vultr上一键搭建](https://github.com/Alvin9999/new-pac/wiki/自建ss服务器教程)  
   * [SSR搭建、配置、提速，免流](http://blog.csdn.net/weixin_37913827/article/details/78717913)      
-  
+  * [使用搬瓦工及 Vultr 自建 SS 或 SS-R 扶墙教程，免费换 IP 不怕墙](http://www.right.com.cn/forum/thread-267152-1-1.html)
 ## 五、v2Ray    
   * [教程一](https://toutyrater.github.io)                  
   * [教程二](https://www.helup.com/77.html)          
