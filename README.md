@@ -12,7 +12,9 @@
   
 ## 三、软件 
   * [蓝灯](https://github.com/getlantern/forum)   
-  * [SSR全平台客户端](https://www.flyzy2005.com/fan-qiang/shadowsocksr/ss-ssr-clients/) 
+  * [SSR全平台客户端](https://www.flyzy2005.com/fan-qiang/shadowsocksr/ss-ssr-clients/)
+  * [SSR安卓&&Windows客户端](https://shiyu.pro/archives/ssr-apk.html)
+  * [SSR版本合集](https://www.dcqzz.cn/post/423)
   * [Linux使用SSR客户端](https://mikoto10032.github.io/post/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%82%A3%E4%BA%9B%E4%BA%8B/linux%E4%BD%BF%E7%94%A8ssr%E5%AE%A2%E6%88%B7%E7%AB%AF/)
   * [electron-ssr客户端](https://github.com/erguotou520/electron-ssr/releases)
   * [v2ray安卓客户端](https://yuan.ga/v2ray-android-tutorial/)
