@@ -31,3 +31,6 @@
   
 ## 六、SSR&v2Ray订阅源
 * [订阅源分享](https://github.com/loremwalker/WebSiteUseful/blob/master/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/SS%26%26SSR%26v2ray%E5%88%86%E4%BA%AB.md)
+
+## 七、科学上网
+* [科学上网](https://www.flyzy2005.com/fan-qiang/)
